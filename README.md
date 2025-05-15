@@ -47,10 +47,10 @@ To design a complex mixed-signal PCB using STM32F407 and supporting peripherals 
 
 ## 📎 Files
 
-- [`/docs`](./docs): Schematics, layout images, stackup, PDN snapshots
-- [`/gerbers`](./gerbers): Fabrication-ready files
-- [`/odb++`](./odb++): Full manufacturing format
-- [`/bom`](./bom): Bill of Materials
+- [`/Documents`](./Documents): Schematics, layout images, stackup, PDN snapshots
+- [`/Gerber`](./Gerber): Fabrication-ready files
+- [`/ODB++`](./ODB++): Full manufacturing format
+- [`/BOM`](./BOM): Bill of Materials
 
 ---
 
